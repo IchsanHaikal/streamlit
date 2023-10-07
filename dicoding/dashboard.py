@@ -4,7 +4,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Memuat data yang telah digabungkan
-data = pd.read_csv("main_data.csv")
+data = pd.read_csv("/workspaces/streamlit/dicoding/main_data.csv")
 
 # Mengatur judul halaman
 st.title("Dashboard Data Sewa Sepeda")
