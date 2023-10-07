@@ -1,0 +1,3 @@
+Streamlit version==1.27.2
+Pandas version==1.5.3
+Seaborn version==0.12.2
